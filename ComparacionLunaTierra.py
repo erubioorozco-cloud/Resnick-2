@@ -2,8 +2,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # --- DATOS ---
-v0 = 5333   
-angulo = 10
+v0 = 50 
+angulo = 45
 theta = np.radians(angulo)
 
 # --- ESCENARIO 1: TIERRA (g = 9.81) ---
